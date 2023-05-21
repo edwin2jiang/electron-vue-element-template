@@ -10,10 +10,10 @@
     "build:mac": "node scripts/build.js && electron-builder --mac",
     "build:linux": "node scripts/build.js && electron-builder --linux"
   },
-  "repository": "https://github.com/deluze/electron-vue-template",
+  "repository": "https://github.com/xia-2/electron-vue-element-template",
   "author": {
-    "name": "Deluze",
-    "url": "https://github.com/Deluze"
+    "name": "Edwin Jiang",
+    "url": "https://github.com/xia-2"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0",
